@@ -11,7 +11,7 @@ The aim of project is to build a machine learning model which would predict whet
 1. Data exploration
 2. Data preprocessing (handling missing values, incorrect values, outliers)
 3. Processing data to suite specific requirement of algorithm (one hot encoding for SVM and ANN model)
-4. Running different models (Decision Tree, Adaboost, Random Forest, Support Vector Machine,  Artificail Neural Network)
+4. Running different models (Decision Tree, Adaboost, Random Forest, Support Vector Machine,  Artificial Neural Network)
 5. Evaluating and selecting the best model
 
 ## Use Case of the project:
